@@ -1,8 +1,8 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 16,
-  "updated": "2026-06-09T07:22:00Z",
+  "published": 17,
+  "updated": "2026-06-09T07:55:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -147,6 +147,15 @@
       "description": "Thomas W. Phelan's evidence-based 3-step parenting program: counting for Stop behavior, 7 Start strategies, and relationship-building.",
       "published_at": "2026-06-09T07:22:00Z",
       "clawhub_url": "https://clawhub.ai/jaysonmeng/1-2-3-magic"
+    },
+    {
+      "slug": "10-days-to-faster-reading",
+      "title": "10 Days to Faster Reading",
+      "author": "Abby Marks Beale",
+      "version": "1.0.0",
+      "description": "A self-paced 10-day program to double reading speed while maintaining comprehension. Pacing, subvocalization reduction, previewing, flexible reading rates.",
+      "published_at": "2026-06-09T07:55:00Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/10-days-to-faster-reading"
     }
   ]
 }
