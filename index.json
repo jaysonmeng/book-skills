@@ -1,8 +1,8 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 1,
-  "updated": "2026-06-08T12:23:00Z",
+  "published": 2,
+  "updated": "2026-06-08T12:50:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -12,6 +12,15 @@
       "description": "Instantly find nonfiction books with ratings, summaries, key concepts, and AI suggestions.",
       "published_at": "2026-06-08T12:23:00Z",
       "clawhub_url": "https://clawhub.ai/jaysonmeng/book-skill-finder"
+    },
+    {
+      "slug": "atomic-habits-james-clear",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "version": "1.0.0",
+      "description": "James Clear Atomic Habits \u2014 an executable toolkit for building good habits, breaking bad ones, and mastering the tiny behaviors that lead to remarkable results.",
+      "published_at": "2026-06-08T12:50:00Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/atomic-habits-james-clear"
     }
   ]
 }
