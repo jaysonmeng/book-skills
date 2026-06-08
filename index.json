@@ -1,8 +1,8 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 4,
-  "updated": "2026-06-08T13:20:00Z",
+  "published": 5,
+  "updated": "2026-06-08T13:25:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -39,6 +39,15 @@
       "description": "Stephen R. Covey The 7 Habits of Highly Effective People \u2014 an executable toolkit for principle-centered living, from personal effectiveness to interdependent leadership.",
       "published_at": "2026-06-08T13:20:00Z",
       "clawhub_url": "https://clawhub.ai/jaysonmeng/7-habits-covey"
+    },
+    {
+      "slug": "rich-dad-poor-dad-kiyosaki",
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "version": "1.0.0",
+      "description": "Robert Kiyosaki Rich Dad Poor Dad \u2014 an executable toolkit that reframes how you think about money, assets, and financial freedom.",
+      "published_at": "2026-06-08T13:25:00Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/rich-dad-poor-dad-kiyosaki"
     }
   ]
 }
