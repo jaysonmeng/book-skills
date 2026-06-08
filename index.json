@@ -1,8 +1,8 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 13,
-  "updated": "2026-06-09T06:00:00Z",
+  "published": 14,
+  "updated": "2026-06-09T06:30:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -120,6 +120,15 @@
       "description": "Anna Meller's PROPEL 6-step model for working mothers to upcycle corporate careers instead of quitting.",
       "published_at": "2026-06-09T06:00:00Z",
       "clawhub_url": "https://clawhub.ai/jaysonmeng/upcycle-your-job"
+    },
+    {
+      "slug": "100m-leads",
+      "title": "$100M Leads: How to Get Strangers To Want To Buy Your Stuff",
+      "author": "Alex Hormozi",
+      "version": "1.0.0",
+      "description": "Alex Hormozi's complete playbook for generating endless engaged leads \u2014 Core Four, lead magnets, paid ads, and getting others to get leads for you.",
+      "published_at": "2026-06-09T06:30:00Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/100m-leads"
     }
   ]
 }
