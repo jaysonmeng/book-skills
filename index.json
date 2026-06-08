@@ -1,8 +1,8 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 12,
-  "updated": "2026-06-09T05:55:00Z",
+  "published": 13,
+  "updated": "2026-06-09T06:00:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -111,6 +111,15 @@
       "description": "Sophia Amoruso's \"#GIRLBOSS\" \u2014 an executable toolkit for building a business from nothing, defying the odds, and owning your ambition.",
       "published_at": "2026-06-09T05:55:00Z",
       "clawhub_url": "https://clawhub.ai/jaysonmeng/girlboss-sophia-amoruso"
+    },
+    {
+      "slug": "upcycle-your-job",
+      "title": "#Upcycle Your Job: The Smart Way to Balance Family Life and Career",
+      "author": "Anna Meller",
+      "version": "1.0.0",
+      "description": "Anna Meller's PROPEL 6-step model for working mothers to upcycle corporate careers instead of quitting.",
+      "published_at": "2026-06-09T06:00:00Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/upcycle-your-job"
     }
   ]
 }
