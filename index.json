@@ -1,7 +1,17 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 0,
-  "updated": "2026-06-08T12:00:00Z",
-  "skills": []
+  "published": 1,
+  "updated": "2026-06-08T12:23:00Z",
+  "skills": [
+    {
+      "slug": "book-skill-finder",
+      "title": "Book Skill Finder",
+      "author": "jaysonmeng",
+      "version": "1.0.0",
+      "description": "Instantly find nonfiction books with ratings, summaries, key concepts, and AI suggestions.",
+      "published_at": "2026-06-08T12:23:00Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/book-skill-finder"
+    }
+  ]
 }
