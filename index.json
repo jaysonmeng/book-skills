@@ -2,7 +2,7 @@
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
   "published": 12,
-  "updated": "2026-06-09T05:26:00Z",
+  "updated": "2026-06-09T05:55:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -102,6 +102,15 @@
       "description": "David Hogg & Lauren Hogg #NeverAgain \u2014 movement-startup toolkit from Parkland. 5 use cases: student organizing, trauma-to-action, digital warfare, counter-smear, legislative strategy.",
       "published_at": "2026-06-09T05:26:00Z",
       "clawhub_url": "https://clawhub.ai/jaysonmeng/neveragain"
+    },
+    {
+      "slug": "girlboss-sophia-amoruso",
+      "title": "#GIRLBOSS",
+      "author": "Sophia Amoruso",
+      "version": "1.0.1",
+      "description": "Sophia Amoruso's \"#GIRLBOSS\" \u2014 an executable toolkit for building a business from nothing, defying the odds, and owning your ambition.",
+      "published_at": "2026-06-09T05:55:00Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/girlboss-sophia-amoruso"
     }
   ]
 }

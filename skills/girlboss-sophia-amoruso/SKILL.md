@@ -12,7 +12,7 @@ description: >-
   Trigger when users say: "#GIRLBOSS" "Sophia Amoruso" "How to start a fashion business"
   "Bootstrapping" "Nasty Gal" "How to start with nothing"
   or mention: girlboss / Amoruso / Nasty Gal / bootstrap / fashion / eBay / startup.
-version: 1.0.0
+version: 1.0.1
 license: MIT
 tags:
   - entrepreneurship
@@ -113,16 +113,16 @@ See `references/4-anti-patterns.md`.
 
 ### Recall Test
 
-- [ ] "How to start a business with no money" → Yes (Bootstrapping, eBay story, hustle)
-- [ ] "How to build a brand from scratch" → Yes (Taste, curation, customer obsession)
-- [ ] "How to bootstrap a company" → Yes (Cash is king, revenue is real)
-- [ ] "How to handle failure and keep going" → Yes (Failure is your invention, Red String Theory)
-- [ ] "How to find my career path" → Yes (Red String Theory, job promiscuity as education)
-- [ ] "How to be a successful entrepreneur without a degree" → Yes (Core framework, Nasty Gal story)
-- [ ] "How to get my first customers" → Yes (eBay hustle, the art of the ask, product photography)
-- [ ] "How to manage money in a startup" → Yes (Credit cards, cash flow, bootstrapping discipline)
-- [ ] "How to quit my job and start my own thing" → Yes (Reinvention, bootstrapping, Red String Theory)
-- [ ] "How to stand out in a crowded market" → Yes (Curation, taste, attention to detail)
+- ✅ "How to start a business with no money" → Yes (Bootstrapping, eBay story, hustle)
+- ✅ "How to build a brand from scratch" → Yes (Taste, curation, customer obsession)
+- ✅ "How to bootstrap a company" → Yes (Cash is king, revenue is real)
+- ✅ "How to handle failure and keep going" → Yes (Failure is your invention, Red String Theory)
+- ✅ "How to find my career path" → Yes (Red String Theory, job promiscuity as education)
+- ✅ "How to be a successful entrepreneur without a degree" → Yes (Core framework, Nasty Gal story)
+- ✅ "How to get my first customers" → Yes (eBay hustle, the art of the ask, product photography)
+- ✅ "How to manage money in a startup" → Yes (Credit cards, cash flow, bootstrapping discipline)
+- ✅ "How to quit my job and start my own thing" → Yes (Reinvention, bootstrapping, Red String Theory)
+- ✅ "How to stand out in a crowded market" → Yes (Curation, taste, attention to detail)
 
 ### Invocation Test
 
