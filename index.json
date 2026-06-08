@@ -1,8 +1,8 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 6,
-  "updated": "2026-06-08T13:28:00Z",
+  "published": 7,
+  "updated": "2026-06-08T21:50:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -57,6 +57,15 @@
       "description": "Jordan B. Peterson 12 Rules for Life \u2014 an executable toolkit for finding meaning, confronting chaos, and living responsibly.",
       "published_at": "2026-06-08T13:28:00Z",
       "clawhub_url": "https://clawhub.ai/jaysonmeng/12-rules-for-life"
+    },
+    {
+      "slug": "thinking-fast-and-slow-kahneman",
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "version": "1.0.0",
+      "description": "Daniel Kahneman Thinking, Fast and Slow \u2014 an executable toolkit for understanding how your mind works, recognizing cognitive biases, and making better decisions.",
+      "published_at": "2026-06-08T21:50:00Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/thinking-fast-and-slow-kahneman"
     }
   ]
 }
