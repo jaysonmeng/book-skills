@@ -1,8 +1,8 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 14,
-  "updated": "2026-06-09T06:30:00Z",
+  "published": 15,
+  "updated": "2026-06-09T06:50:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -129,6 +129,15 @@
       "description": "Alex Hormozi's complete playbook for generating endless engaged leads \u2014 Core Four, lead magnets, paid ads, and getting others to get leads for you.",
       "published_at": "2026-06-09T06:30:00Z",
       "clawhub_url": "https://clawhub.ai/jaysonmeng/100m-leads"
+    },
+    {
+      "slug": "100m-offers-v2",
+      "title": "$100M Offers: How To Make Offers So Good People Feel Stupid Saying No",
+      "author": "Alex Hormozi",
+      "version": "1.0.0",
+      "description": "Alex Hormozi's complete framework for creating Grand Slam Offers that eliminate price comparison and multiply revenue 22x.",
+      "published_at": "2026-06-09T06:50:00Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/100m-offers-v2"
     }
   ]
 }
