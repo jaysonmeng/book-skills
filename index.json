@@ -1,8 +1,8 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 10,
-  "updated": "2026-06-08T14:30:00Z",
+  "published": 11,
+  "updated": "2026-06-08T14:38:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -84,6 +84,15 @@
       "description": "Napoleon Hill Think and Grow Rich \u2014 an executable toolkit for harnessing the power of desire, faith, and persistence to achieve wealth.",
       "published_at": "2026-06-08T14:30:00Z",
       "clawhub_url": "https://clawhub.ai/jaysonmeng/think-and-grow-rich-napoleon-hill"
+    },
+    {
+      "slug": "the-subtle-art-of-not-giving-a-fck",
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "version": "1.0.0",
+      "description": "Mark Manson The Subtle Art of Not Giving a F*ck \u2014 an executable toolkit for choosing what to care about, embracing discomfort, and living a values-driven life.",
+      "published_at": "2026-06-08T14:38:00Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/the-subtle-art-of-not-giving-a-fck"
     }
   ]
 }
