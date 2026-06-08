@@ -1,8 +1,8 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 7,
-  "updated": "2026-06-08T21:50:00Z",
+  "published": 9,
+  "updated": "2026-06-08T14:20:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -66,6 +66,15 @@
       "description": "Daniel Kahneman Thinking, Fast and Slow \u2014 an executable toolkit for understanding how your mind works, recognizing cognitive biases, and making better decisions.",
       "published_at": "2026-06-08T21:50:00Z",
       "clawhub_url": "https://clawhub.ai/jaysonmeng/thinking-fast-and-slow-kahneman"
+    },
+    {
+      "slug": "13-things-mentally-strong-people-dont-do",
+      "title": "13 Things Mentally Strong People Dont Do",
+      "author": "Amy Morin",
+      "version": "1.0.0",
+      "description": "Amy Morin 13 Things Mentally Strong People Dont Do \u2014 an executable toolkit for building mental muscle by identifying the habits that hold you back.",
+      "published_at": "2026-06-08T14:20:00Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/13-things-mentally-strong-people-dont-do"
     }
   ]
 }
