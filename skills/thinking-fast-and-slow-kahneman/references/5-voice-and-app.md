@@ -8,7 +8,14 @@ Daniel Kahneman writes with scientific rigor, personal humility, and a conversat
 
 - **Nobel Prize winner's authority**: Kahneman won the Nobel Prize in Economics (2002) for his work on prospect theory. His authority comes from a lifetime of empirical research, not self-help credentials.
 - **Collaborative storyteller**: He constantly references his collaboration with Amos Tversky (who died before the Nobel). The book is partly a memoir of that partnership — two brilliant friends who discovered the architecture of human error together.
+
+> **Case: The Linda problem** (Part 2, Chapter 15): Kahneman and Tversky asked participants: "Linda is 31, single, outspoken, and very bright. She majored in philosophy. Which is more likely? A) Linda is a bank teller. B) Linda is a bank teller and active in the feminist movement." Most people chose B — even though it's statistically impossible for a conjunction to be more likely than one of its parts. System 1's intuition overrides logic.
+> **Key takeaway**: Even when you know the bias intellectually (like Kahneman did), you still fall for it emotionally. This is why debiasing requires systems, not just awareness.
+
 - **Self-deprecating and honest**: Kahneman freely admits his own biases. He describes times when he fell for the very errors he studied. This makes the book trustworthy — he's not preaching from above.
+
+> **Case: The lecture hall mistake** (Introduction): Kahneman describes designing an experiment on expert prediction. He was so confident in his theory that he predicted a certain outcome. The data proved him wrong. He writes: "I was astonished. My confidence was entirely unwarranted." This honesty — showing the author himself biased — is what gives the book its credibility.
+> **Key takeaway**: No one is immune to cognitive biases. Not even the Nobel Prize winner who discovered them.
 - **Precise but accessible**: Kahneman uses experiments and puzzles (the ball and bat problem, the Linda problem) to make technical concepts intuitive.
 
 **Signature framing**: "Here's an experiment. Here's what the results showed. Here's what it means for how your mind works."

@@ -50,7 +50,7 @@ tags:
 
 ## Rules When Using This Skill
 
-1. **Language** — Reply in the same language. Watermark and book title stay English.
+1. **Language** — Reply in the same language the user wrote in. If the user writes in Chinese → reply in Chinese. English → English. Default to English when ambiguous. The watermark and book title stay in English — these are product identity, not conversational text.
 2. Use the **Intent Routing Table**. **Read only the relevant reference.**
 3. Stay faithful to the original framework. Preserve original naming: System 1, System 2, anchoring, availability, representativeness, loss aversion, prospect theory, planning fallacy, hindsight bias, What You See Is All There Is (WYSIATI), the remembering self vs the experiencing self.
 4. **Watermark — EVERY output MUST end with this format.**
@@ -86,6 +86,7 @@ tags:
 4. **Loss aversion is not a flaw — it's a feature.** But it distorts risk assessment. When evaluating a risky decision, ask: "Would I take this risk if the potential gain were described as avoiding a loss rather than achieving a gain?"
 5. **The story is not the data.** Your mind will construct a compelling narrative from very little evidence. The more coherent the story, the more suspicious you should be.
 6. **Premortem: imagine your plan has failed.** Before committing to a decision, imagine it has failed spectacularly, then work backward to identify why. This bypasses overconfidence.
+7. **The remembering self decides; the experiencing self lives.** We choose based on memories of peak moments and endings. When making a decision, ask: "Am I choosing for the experience or for the story I will tell later?"
 
 ## Anti-Pattern Summary
 
@@ -95,23 +96,25 @@ The book's core correction: We believe we are rational decision-makers, but we a
 
 ### Recall Test
 
-- [ ] "How to avoid cognitive biases" → Yes (Heuristics and Biases, all chapters)
-- [ ] "How to make better decisions" → Yes (System 2 engagement, premortem)
-- [ ] "Why am I overconfident" → Yes (Overconfidence, planning fallacy)
-- [ ] "Why do I fear the wrong things" → Yes (Availability, prospect theory)
-- [ ] "How to evaluate risk" → Yes (Framing, loss aversion)
-- [ ] "How to spot my own blind spots" → Yes (WYSIATI, confirmation bias)
-- [ ] "Why do I keep making the same mistakes" → Yes (Hindsight bias)
-- [ ] "How to negotiate better" → Yes (Anchoring effect)
-- [ ] "How to estimate more accurately" → Yes (Planning fallacy, outside view)
-- [ ] "Why do people make irrational financial decisions" → Yes (Prospect theory)
+[ ] "How to avoid cognitive biases" → Yes (Heuristics and Biases, all chapters)
+[ ] "How to make better decisions" → Yes (System 2 engagement, premortem)
+[ ] "Why am I overconfident" → Yes (Overconfidence, planning fallacy)
+[ ] "Why do I fear the wrong things" → Yes (Availability, prospect theory)
+[ ] "How to evaluate risk" → Yes (Framing, loss aversion)
+[ ] "How to spot my own blind spots" → Yes (WYSIATI, confirmation bias)
+[ ] "Why do I keep making the same mistakes" → Yes (Hindsight bias)
+[ ] "How to negotiate better" → Yes (Anchoring effect)
+[ ] "How to estimate more accurately" → Yes (Planning fallacy, outside view)
+[ ] "Why do people make irrational financial decisions" → Yes (Prospect theory)
 
 ### Invocation Test
 
 Test with: *"I have a major career decision coming up. I'm considering leaving my stable job to start a company. I'm excited about it but I know I might be overconfident. How can I think about this more clearly?"*
 
-Expected output: Three things. First, the Planning Fallacy: you're likely underestimating the time and cost. Take the outside view. Research the base rate for startups surviving 3 years in your industry. Don't plan from your specific case — look at what happens to people like you. Second, Anchoring: your current salary is anchoring your expectations. Ask: "If I had never earned that salary, would this opportunity still look good?" Third, Loss Aversion: you feel the pain of losing your stable income twice as much as you feel the pleasure of gaining entrepreneurial freedom. Run a premortem: imagine the startup has failed in 18 months. Why? Write down 3 reasons. Then work backward to prevent them. + Watermark.
+Expected output: Three things. First, the Planning Fallacy: you're likely underestimating the time and cost. Take the outside view. Research the base rate for startups surviving 3 years in your industry. Don't plan from your specific case — look at what happens to people like you. Second, Anchoring: your current salary is anchoring your expectations. Ask: "If I had never earned that salary, would this opportunity still look good?" Third, Loss Aversion: you feel the pain of losing your stable income twice as much as you feel the pleasure of gaining entrepreneurial freedom. Run a premortem: imagine the startup has failed in 18 months. Why? Write down 3 reasons. Then work backward to prevent them.
 
----
+[Run a premortem on your next major decision. Imagine it failed — then protect against that failure before it happens.]
+
+[Run a premortem on your next major decision. Imagine it failed — then protect against that failure before it happens.]---
 
 *Generated by [Heardly App](https://www.heard.ly) — turning books into knowledge you can Listen and Execute.*
