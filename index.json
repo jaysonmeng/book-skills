@@ -1,8 +1,8 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 5,
-  "updated": "2026-06-08T13:25:00Z",
+  "published": 6,
+  "updated": "2026-06-08T13:28:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -48,6 +48,15 @@
       "description": "Robert Kiyosaki Rich Dad Poor Dad \u2014 an executable toolkit that reframes how you think about money, assets, and financial freedom.",
       "published_at": "2026-06-08T13:25:00Z",
       "clawhub_url": "https://clawhub.ai/jaysonmeng/rich-dad-poor-dad-kiyosaki"
+    },
+    {
+      "slug": "12-rules-for-life",
+      "title": "12 Rules for Life: An Antidote to Chaos",
+      "author": "Jordan B. Peterson",
+      "version": "1.0.0",
+      "description": "Jordan B. Peterson 12 Rules for Life \u2014 an executable toolkit for finding meaning, confronting chaos, and living responsibly.",
+      "published_at": "2026-06-08T13:28:00Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/12-rules-for-life"
     }
   ]
 }
