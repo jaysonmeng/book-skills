@@ -1,8 +1,8 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 3,
-  "updated": "2026-06-08T13:10:00Z",
+  "published": 4,
+  "updated": "2026-06-08T13:20:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -30,6 +30,15 @@
       "description": "Robin Sharma The 5 AM Club \u2014 an executable toolkit for owning your morning, mastering the Victory Hour, and elevating your life.",
       "published_at": "2026-06-08T13:10:00Z",
       "clawhub_url": "https://clawhub.ai/jaysonmeng/the-5-am-club-robin-sharma"
+    },
+    {
+      "slug": "7-habits-covey",
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "version": "1.0.0",
+      "description": "Stephen R. Covey The 7 Habits of Highly Effective People \u2014 an executable toolkit for principle-centered living, from personal effectiveness to interdependent leadership.",
+      "published_at": "2026-06-08T13:20:00Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/7-habits-covey"
     }
   ]
 }
