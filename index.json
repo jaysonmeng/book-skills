@@ -1,8 +1,8 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 15,
-  "updated": "2026-06-09T06:55:00Z",
+  "published": 16,
+  "updated": "2026-06-09T07:22:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -138,6 +138,15 @@
       "description": "Alex Hormozi's complete framework for creating Grand Slam Offers that eliminate price comparison and multiply revenue 22x.",
       "published_at": "2026-06-09T06:50:00Z",
       "clawhub_url": "https://clawhub.ai/jaysonmeng/100m-offers-v2"
+    },
+    {
+      "slug": "1-2-3-magic",
+      "title": "1-2-3 Magic: Effective Discipline for Children 2-12",
+      "author": "Thomas W. Phelan",
+      "version": "1.0.0",
+      "description": "Thomas W. Phelan's evidence-based 3-step parenting program: counting for Stop behavior, 7 Start strategies, and relationship-building.",
+      "published_at": "2026-06-09T07:22:00Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/1-2-3-magic"
     }
   ]
 }
