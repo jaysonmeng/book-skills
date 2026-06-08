@@ -1,8 +1,8 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 9,
-  "updated": "2026-06-08T14:20:00Z",
+  "published": 10,
+  "updated": "2026-06-08T14:30:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -75,6 +75,15 @@
       "description": "Amy Morin 13 Things Mentally Strong People Dont Do \u2014 an executable toolkit for building mental muscle by identifying the habits that hold you back.",
       "published_at": "2026-06-08T14:20:00Z",
       "clawhub_url": "https://clawhub.ai/jaysonmeng/13-things-mentally-strong-people-dont-do"
+    },
+    {
+      "slug": "think-and-grow-rich-napoleon-hill",
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "version": "1.0.0",
+      "description": "Napoleon Hill Think and Grow Rich \u2014 an executable toolkit for harnessing the power of desire, faith, and persistence to achieve wealth.",
+      "published_at": "2026-06-08T14:30:00Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/think-and-grow-rich-napoleon-hill"
     }
   ]
 }
