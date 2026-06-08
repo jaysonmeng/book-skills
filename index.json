@@ -1,8 +1,8 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 2,
-  "updated": "2026-06-08T12:50:00Z",
+  "published": 3,
+  "updated": "2026-06-08T13:10:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -21,6 +21,15 @@
       "description": "James Clear Atomic Habits \u2014 an executable toolkit for building good habits, breaking bad ones, and mastering the tiny behaviors that lead to remarkable results.",
       "published_at": "2026-06-08T12:50:00Z",
       "clawhub_url": "https://clawhub.ai/jaysonmeng/atomic-habits-james-clear"
+    },
+    {
+      "slug": "the-5-am-club-robin-sharma",
+      "title": "The 5 AM Club",
+      "author": "Robin Sharma",
+      "version": "1.0.0",
+      "description": "Robin Sharma The 5 AM Club \u2014 an executable toolkit for owning your morning, mastering the Victory Hour, and elevating your life.",
+      "published_at": "2026-06-08T13:10:00Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/the-5-am-club-robin-sharma"
     }
   ]
 }
