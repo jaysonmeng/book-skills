@@ -1,8 +1,8 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 11,
-  "updated": "2026-06-08T14:38:00Z",
+  "published": 12,
+  "updated": "2026-06-09T05:26:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -93,6 +93,15 @@
       "description": "Mark Manson The Subtle Art of Not Giving a F*ck \u2014 an executable toolkit for choosing what to care about, embracing discomfort, and living a values-driven life.",
       "published_at": "2026-06-08T14:38:00Z",
       "clawhub_url": "https://clawhub.ai/jaysonmeng/the-subtle-art-of-not-giving-a-fck"
+    },
+    {
+      "slug": "neveragain",
+      "title": "#NeverAgain: A New Generation Draws the Line",
+      "author": "David Hogg and Lauren Hogg",
+      "version": "1.0.0",
+      "description": "David Hogg & Lauren Hogg #NeverAgain \u2014 movement-startup toolkit from Parkland. 5 use cases: student organizing, trauma-to-action, digital warfare, counter-smear, legislative strategy.",
+      "published_at": "2026-06-09T05:26:00Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/neveragain"
     }
   ]
 }
