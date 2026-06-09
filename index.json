@@ -1,8 +1,8 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 17,
-  "updated": "2026-06-09T07:55:00Z",
+  "published": 18,
+  "updated": "2026-06-09T04:52:41Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -156,6 +156,15 @@
       "description": "A self-paced 10-day program to double reading speed while maintaining comprehension. Pacing, subvocalization reduction, previewing, flexible reading rates.",
       "published_at": "2026-06-09T07:55:00Z",
       "clawhub_url": "https://clawhub.ai/jaysonmeng/10-days-to-faster-reading"
+    },
+    {
+      "slug": "10-leadership-virtues-for-disruptive-times",
+      "title": "10 Leadership Virtues for Disruptive Times",
+      "author": "Tom Ziglar",
+      "version": "1.0.0",
+      "description": "Tom Ziglar's Coach Leadership toolkit for navigating uncertainty, leading remote teams with kindness, humility, and purpose.",
+      "published_at": "2026-06-09T04:52:41Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/10-leadership-virtues-for-disruptive-times"
     }
   ]
 }
