@@ -1,8 +1,8 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 20,
-  "updated": "2026-06-09T15:55:00Z",
+  "published": 21,
+  "updated": "2026-06-09T16:20:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -183,6 +183,15 @@
       "description": "100 evidence-based psychological principles for design. 10 categories: seeing, reading, memory, thinking, attention, motivation, social behavior, emotion, mistakes, decision-making.",
       "published_at": "2026-06-09T15:55:00Z",
       "clawhub_url": "https://github.com/jaysonmeng/book-skills/tree/main/skills/100-things-every-designer-needs-to-know-about-people"
+    },
+    {
+      "slug": "100-ways-to-change-your-life",
+      "title": "100 Ways to Change Your Life: The Science of Leveling Up Body, Mind, and Relationships",
+      "author": "Liz Moody",
+      "version": "1.0.0",
+      "description": "100 evidence-based micro-habits from Liz Moody across 17 categories: habits, morning, energy, productivity, creativity, success, self-love, happiness, friendship, relationships, gut health, longevity, calm, resilience, decisions.",
+      "published_at": "2026-06-09T16:20:00Z",
+      "clawhub_url": "https://github.com/jaysonmeng/book-skills/tree/main/skills/100-ways-to-change-your-life"
     }
   ]
 }

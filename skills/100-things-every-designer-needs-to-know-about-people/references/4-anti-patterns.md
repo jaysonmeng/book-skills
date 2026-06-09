@@ -1,49 +1,72 @@
-> Source: 100 Things Every Designer Needs to Know About People, Full Book
+# Anti-Patterns: Common Design Mistakes & Error Prevention
 
-## The Anti-Patterns of Design
+> Source: "100 Things Every Designer Needs to Know About People" by Susan M. Weinschenk, Ph.D. (Second Edition, 2020) — Chapters 85-89 (People Make Mistakes), 30-39 (How People Think)
 
-### Anti-Pattern 1: The "More Choices = Better" Fallacy
-**The mistake:** Assuming users want as many options as possible. More features mean more value.
+## The Fundamental Error: Designing for a Rational User
 
-**Why it fails:** People want more choices than they can process. The "paradox of choice" (Barry Schwartz) shows that more options lead to analysis paralysis and buyer's remorse. People think choice equals control, but too much choice destroys satisfaction.
+The overarching mistake: assuming users process information rationally, sequentially, and consciously. In reality:
+- 30% of the time, minds wander (Ch. 29)
+- People are driven to create categories whether they exist or not (Ch. 35)
+- People screen out information that doesn't fit their beliefs (Ch. 37)
+- Uncertainty leads people to defend their ideas more strongly (Ch. 30)
 
-**Fix:** Limit to 4 meaningful options. Provide a clear default. Use the "decoy effect" to guide choice.
+## Anti-Pattern Catalog
 
-### Anti-Pattern 2: Designing for the Average User
-**The mistake:** Creating a "one size fits all" interface that assumes a single user type.
+### Anti-Pattern 1: Overloading Working Memory
+**The mistake**: Asking users to hold information across pages, between fields, or through multi-step processes without visual aids.
 
-**Why it fails:** There is no average user. People vary widely in reading ability, color perception, cognitive style, and mental models. Designing for average excludes everyone else.
+**Why it fails**: Working memory holds only 3-4 items and is highly sensitive to interference (Ch. 19-20). Any interruption (phone notification, background noise, another task) causes forgetting.
 
-**Fix:** Design for extremes — the power user and the novice. Provide progressive disclosure. Test with diverse users.
+**Signs of the problem**:
+- Users write down information from one screen to enter on another
+- Users complain about "too many steps"
+- Users refer to sticky notes or printed instructions while using the product
 
-### Anti-Pattern 3: The "If We Build It, They Will Engage" Trap
-**The mistake:** Assuming that because you built a feature, users will use it and love it.
+> **Case: Phone Number Paradox** (Ch. 20): U.S. phone numbers are chunked as 3-4-4 because 10 digits exceed working memory. Area codes were originally unnecessary for local calls — reducing memory load further. **Key takeaway**: Chunk information, or better yet, don't make users remember it at all.
 
-**Why it fails:** People need motivation, ability, and a trigger (Fogg's Behavior Model). If any is missing, behavior won't happen. Features without motivation are just noise.
+### Anti-Pattern 2: Ignoring Affordance Cues
+**The mistake**: Designing buttons, links, and interactive elements without clear visual cues for how they work (flat design, hover-only links, indistinguishable clickable/non-clickable elements).
 
-**Fix:** Identify the psychological trigger for each feature. Is the user motivated? Do they have the ability to use it? Is there a clear call to action?
+**Why it fails**: People perceive affordances in milliseconds (Ch. 7). Without clear cues, users guess — and guessing leads to errors, frustration, and abandonment.
 
-> **Case: The medical device error** (Thing 85): A hospital IV pump had a complex interface with 50+ functions. Nurses under stress made predictable errors — they'd press the wrong button in sequence. The pump was "fail-safe" in code but fail-dangerous in practice because it made undoing an error extremely difficult. **Key takeaway:** Stress amplifies errors. Design for the worst-case scenario (tired, distracted, stressed user), not the best-case (attentive, rested user).
+> **Case: The PUSH Door That Looks Like a PULL** (Ch. 7): A door handle shaped to invite pulling but requiring a push is the classic affordance failure. The same happens on screens when a button looks like decorative text or vice versa. **Key takeaway**: If you need to add instructions ("Click here"), your affordance has failed.
 
-### Anti-Pattern 4: Assuming People Read Your Content
-**The mistake:** Writing long paragraphs expecting users to read every word.
+### Anti-Pattern 3: Choice Overload
+**The mistake**: Providing too many options, features, or paths, assuming more choice = better experience.
 
-**Why it fails:** People scan, not read. They'll read 20-28% of a page on average. They look for anchors (headings, bold text, images) to decide if a section is worth reading.
+**Why it fails**: While people think more choices = more control (Ch. 93), they can only process 3-4 items in working memory. Excessive choice leads to paralysis, regret, and dissatisfaction.
 
-**Fix:** Write for scannability. Short paragraphs. Meaningful headings (not clever ones). Use bullet points. Put the conclusion first.
+> **Case: Breadth vs. Depth** (Ch. 20, 27): Broadbent's research shows people organize recall into clusters of 2-4 items. Information that can't be chunked into 4±1 groups is poorly remembered and poorly processed. **Key takeaway**: Curate. If you can't reduce choices, group them into 3-4 categories.
 
-### Anti-Pattern 5: Over-Relying on Memory
-**The mistake:** Making users remember information from one screen to the next. "Enter your password. Now confirm your password. Now enter it again."
+### Anti-Pattern 4: Assuming Users Notice Changes
+**The mistake**: Updating a screen (form validation, dynamic content, error messages) and assuming users will notice the change.
 
-**Why it fails:** Short-term memory holds 4 items for about 20 seconds. If they need to remember an item number, code, or instruction across pages, they'll likely forget.
+**Why it fails**: Change blindness (Ch. 8) means people often miss obvious visual changes — even a gorilla walking through a basketball game. Eye tracking shows people "see" changes with their central vision but don't consciously register them.
 
-**Fix:** Show relevant info on every screen. Never require recall — always provide recognition cues.
+> **Case: The Gorilla Video** (Ch. 8): 50% of viewers didn't notice the gorilla, even though eye tracking confirmed their central gaze landed on it. **Key takeaway**: Looking ≠ seeing. Use sound, animation, or multiple redundant cues for important changes.
 
-### Anti-Pattern 6: Ignoring the Emotional State of Users
-**The mistake:** Treating users as rational decision-makers who always make optimal choices.
+### Anti-Pattern 5: Relying on User Memory in Research
+**The mistake**: Asking users what they did, why they did it, or how they felt about an experience after the fact — and treating answers as accurate.
 
-**Why it fails:** People make emotional decisions first, then justify them rationally. Scared users want familiarity. Happy users want novelty. Stressed users make more errors.
+**Why it fails**: Memories are reconstructed each time (Ch. 24), changed by subsequent events (Ch. 24), and influenced by word choice in questions (Ch. 24). Flashbulb memories are vivid but often wrong (Ch. 26).
 
-**Fix:** Match the emotional tone of the interface to the user's likely emotional state. A banking app should feel safe and familiar. A shopping app can be playful and exploratory.
+> **Case: Loftus "Smashed" vs "Hit"** (Ch. 24): Asking "How fast was the car going when it smashed the other vehicle?" produced higher speed estimates than using "hit" — and twice as many people "remembered" broken glass that didn't exist. **Key takeaway**: Watch your words — they literally rewrite user memory.
 
-> **Case: The hotel key card redesign** (Thing 87): A hotel chain found that 30% of guests couldn't figure out how to use their key cards at the door. The card had an arrow showing which way to insert it. 30% still got it wrong. The fix: remove the arrow, put a sticker on one side that said "This side up." Errors dropped to 2%. **Key takeaway:** Don't tell users how to use your product — constrain them so they can only use it correctly. Instructions are design failures.
+### Anti-Pattern 6: Designing Without Error Tolerance
+**The mistake**: Assuming users will follow the intended path and not accounting for errors.
+
+**Why it fails**: People will always make mistakes (Ch. 85). There is no fail-safe product. Different error types require different strategies (Ch. 89):
+- **Slips** — attention failures (typos, misclicks) → undo, confirmation dialogs
+- **Mistakes** — understanding failures → better instruction, clearer labels
+
+> **Case: Stress Impairs Performance** (Ch. 86): Under stress, prefrontal cortex activity decreases, reducing working memory effectiveness. Errors increase dramatically when users are stressed, rushed, or multitasking. **Key takeaway**: Design for the stressed, distracted user, not the calm, focused one.
+
+### Anti-Pattern 7: Information Without Story
+**The mistake**: Presenting data, features, or instructions as lists of facts rather than narratives.
+
+**Why it fails**: People process information best in story form (Ch. 33). Stories and anecdotes persuade more than data alone (Ch. 74). Without narrative structure, information is harder to understand, remember, and act on.
+
+**Signs of the problem**:
+- Users can repeat facts but can't apply them
+- Users ask "So what?" or "What does this mean for me?"
+- Data-heavy presentations fail to drive action

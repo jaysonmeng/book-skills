@@ -1,11 +1,11 @@
 {
   "name": "100-things-every-designer-needs-to-know-about-people",
   "title": "100 Things Every Designer Needs to Know About People",
-  "author": "Susan M. Weinschenk",
+  "author": "Susan M. Weinschenk, Ph.D.",
   "version": "1.0.0",
   "license": "MIT",
-  "tags": ["design", "psychology", "ux", "user-experience", "product-design"],
-  "description": "Susan Weinschenk's \"100 Things Every Designer Needs to Know About People\" — 100 evidence-based psychological principles across 10 categories: seeing, reading, memory, thinking, attention, motivation, social behavior, emotion, mistakes, and decision-making. Trigger when users say: \"ux design\" \"user behavior\" \"visual perception\" \"cognitive load\" \"choice overload\" \"color blind\" \"habit design\" \"Susan Weinschenk\" \"human factors\" \"product design.\"",
+  "tags": ["design-psychology", "UX", "user-research", "cognitive-psychology", "product-design", "human-factors", "visual-design"],
+  "description": "Susan M. Weinschenk's \"100 Things Every Designer Needs to Know About People\" — a research-backed design psychology toolkit for creating interfaces, products, and experiences that align with how people actually see, read, remember, think, focus, get motivated, socialize, feel, make mistakes, and decide. Covers 10 use cases: Understanding visual perception, Designing readable interfaces, Optimizing for memory limits, Reducing cognitive load, Grabbing and holding attention, Motivating user action, Leveraging social psychology, Designing for emotion, Preventing user errors, Improving decision-making. Trigger when users say: \"design psychology\" \"how people see\" \"UX research\" \"cognitive load\" \"affordances\" \"Fitts's law\" \"progressive disclosure\" \"working memory\" \"color blindness\" \"user research\" \"attention span\" \"Susan Weinschenk\" \"persuasive design\" \"behavioral design\" \"UX psychology\" \"user behavior\" \"human factors\"",
   "homepage": "https://github.com/jaysonmeng/book-skills/tree/main/skills/100-things-every-designer-needs-to-know-about-people",
   "clawhub": {
     "slug": "100-things-every-designer-needs-to-know-about-people",
