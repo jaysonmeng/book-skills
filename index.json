@@ -1,8 +1,8 @@
 {
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
-  "published": 18,
-  "updated": "2026-06-09T04:52:41Z",
+  "published": 19,
+  "updated": "2026-06-09T15:30:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -165,6 +165,15 @@
       "description": "Tom Ziglar's Coach Leadership toolkit for navigating uncertainty, leading remote teams with kindness, humility, and purpose.",
       "published_at": "2026-06-09T04:52:41Z",
       "clawhub_url": "https://clawhub.ai/jaysonmeng/10-leadership-virtues-for-disruptive-times"
+    },
+    {
+      "slug": "10-happier",
+      "title": "10% Happier: How I Tamed the Voice in My Head",
+      "author": "Dan Harris",
+      "version": "1.0.0",
+      "description": "Dan Harris's skeptic's guide to meditation. Anxiety management, breath meditation, mindfulness for competitive people, self-compassion.",
+      "published_at": "2026-06-09T15:30:00Z",
+      "clawhub_url": "https://github.com/jaysonmeng/book-skills/tree/main/skills/10-happier"
     }
   ]
 }

@@ -1,0 +1,14 @@
+{
+  "name": "100-things-every-designer-needs-to-know-about-people",
+  "title": "100 Things Every Designer Needs to Know About People",
+  "author": "Susan M. Weinschenk",
+  "version": "1.0.0",
+  "license": "MIT",
+  "tags": ["design", "psychology", "ux", "user-experience", "product-design"],
+  "description": "Susan Weinschenk's \"100 Things Every Designer Needs to Know About People\" — 100 evidence-based psychological principles across 10 categories: seeing, reading, memory, thinking, attention, motivation, social behavior, emotion, mistakes, and decision-making. Trigger when users say: \"ux design\" \"user behavior\" \"visual perception\" \"cognitive load\" \"choice overload\" \"color blind\" \"habit design\" \"Susan Weinschenk\" \"human factors\" \"product design.\"",
+  "homepage": "https://github.com/jaysonmeng/book-skills/tree/main/skills/100-things-every-designer-needs-to-know-about-people",
+  "clawhub": {
+    "slug": "100-things-every-designer-needs-to-know-about-people",
+    "owner": "jaysonmeng"
+  }
+}
