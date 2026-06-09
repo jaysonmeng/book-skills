@@ -1,11 +1,11 @@
 {
   "name": "10-happier",
-  "title": "10% Happier",
+  "title": "10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",
   "author": "Dan Harris",
   "version": "1.0.0",
   "license": "MIT",
-  "tags": ["meditation", "mindfulness", "stress-reduction", "self-help", "mental-health", "productivity"],
-  "description": "Dan Harris's \"10% Happier\" — a skeptical journalist's secular guide to meditation and mindfulness for ambitious, Type-A people. Covers 6 use cases: understanding the monkey mind, starting a meditation practice, reducing stress and reactivity, handling negative thoughts, improving focus and performance, and managing panic and anxiety. Trigger when users say: 'monkey mind' '10% happier' 'dan harris meditation' 'voice in my head' 'mindfulness for skeptics' 'how to meditate' 'panic attack' or mention: mindfulness / meditation / inner critic / self-help for skeptics.",
+  "tags": ["meditation", "mindfulness", "mental-health", "self-improvement", "stress-management"],
+  "description": "Dan Harris's \"10% Happier\" — a skeptic's guide to meditation from an ABC news anchor who had a panic attack on live TV. Covers meditation for skeptics, anxiety management, how to start meditating in 5 minutes, mindfulness for workplace performance, and self-compassion. Trigger when users say: \"10% happier\" \"Dan Harris\" \"meditation\" \"mindfulness\" \"panic attack\" \"how to meditate\" \"stress reduction\" \"breath meditation.\"",
   "homepage": "https://github.com/jaysonmeng/book-skills/tree/main/skills/10-happier",
   "clawhub": {
     "slug": "10-happier",
