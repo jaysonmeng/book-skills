@@ -1,11 +1,11 @@
 {
   "name": "kickbacks",
-  "title": "Kickbacks.ai — Get Paid for Waiting",
-  "author": "Kickbacks.ai",
-  "version": "1.1.0",
+  "title": "Kickbacks.ai — Get Paid for Waiting + Agent Platform Ads",
+  "author": "Jayson Meng",
+  "version": "1.2.0",
   "license": "MIT",
-  "tags": ["kickbacks", "claude-code", "codex", "vs-code", "extension", "earn-money", "ai-tools"],
-  "description": "Kickbacks.ai — turn AI spinner waiting time into passive income. Install the VS Code extension to earn 50% ad revenue while Claude Code or Codex thinks.",
+  "tags": ["kickbacks", "claude-code", "codex", "vs-code", "extension", "earn-money", "ai-tools", "passive-income", "advertising", "openclaw", "hermes", "agent-platform", "spinner-advertising", "default-advertiser"],
+  "description": "Kickbacks.ai — turn AI spinner waiting time into passive income. Now includes OpenClaw/Hermes adapter strategies and a default advertiser blueprint for agent platforms.",
   "homepage": "https://github.com/jaysonmeng/book-skills/tree/main/skills/kickbacks",
   "clawhub": {
     "slug": "kickbacks",
