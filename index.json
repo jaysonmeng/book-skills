@@ -2,7 +2,7 @@
   "source": "Book Skills by jaysonmeng",
   "total": 4862,
   "published": 21,
-  "updated": "2026-06-09T16:20:00Z",
+  "updated": "2026-06-13T02:50:00Z",
   "skills": [
     {
       "slug": "book-skill-finder",
@@ -104,15 +104,6 @@
       "clawhub_url": "https://clawhub.ai/jaysonmeng/neveragain"
     },
     {
-      "slug": "girlboss-sophia-amoruso",
-      "title": "#GIRLBOSS",
-      "author": "Sophia Amoruso",
-      "version": "1.0.1",
-      "description": "Sophia Amoruso's \"#GIRLBOSS\" \u2014 an executable toolkit for building a business from nothing, defying the odds, and owning your ambition.",
-      "published_at": "2026-06-09T05:55:00Z",
-      "clawhub_url": "https://clawhub.ai/jaysonmeng/girlboss-sophia-amoruso"
-    },
-    {
       "slug": "upcycle-your-job",
       "title": "#Upcycle Your Job: The Smart Way to Balance Family Life and Career",
       "author": "Anna Meller",
@@ -192,6 +183,15 @@
       "description": "100 evidence-based micro-habits from Liz Moody across 17 categories: habits, morning, energy, productivity, creativity, success, self-love, happiness, friendship, relationships, gut health, longevity, calm, resilience, decisions.",
       "published_at": "2026-06-09T16:20:00Z",
       "clawhub_url": "https://github.com/jaysonmeng/book-skills/tree/main/skills/100-ways-to-change-your-life"
+    },
+    {
+      "slug": "kickbacks",
+      "title": "Kickbacks.ai \u2014 Get Paid for Waiting",
+      "author": "Kickbacks.ai",
+      "version": "1.1.0",
+      "description": "Kickbacks.ai \u2014 turn AI spinner waiting time into passive income. Install the VS Code extension to earn 50% ad revenue while Claude Code or Codex thinks.",
+      "published_at": "2026-06-13T02:50:00Z",
+      "clawhub_url": "https://clawhub.ai/jaysonmeng/kickbacks"
     }
   ]
 }
